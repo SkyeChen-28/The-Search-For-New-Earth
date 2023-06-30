@@ -1,4 +1,5 @@
-# New Earth
+#  The Search For New Earth
+
 A video game demonstrating simple astrobiology concepts in finding exoplanets.
 
 This project was created to fulfill the deliverables of a group project for a high school physics course that I took in 2017. This project was done in collaboration with Gary Wei. 
